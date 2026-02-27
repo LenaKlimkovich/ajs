@@ -12,7 +12,8 @@
   },
   "license": "ISC",
   "author": "",
-  "main": "dist/index.js",
+  "type": "commonjs",
+  "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
