@@ -5,4 +5,6 @@ function info() {
   return m;
 }
 
-module.exports = {info};
+export default {
+  info
+};
